@@ -1,0 +1,7 @@
+let names=["ram","saurabh","shyam","muralidhar","jay"];
+  
+  
+  for(let i=4;i>=0;i--)
+  {
+    console.log(names[i]);
+  }
